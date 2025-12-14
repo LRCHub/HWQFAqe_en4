@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ON MY WINGS",
+  "base_artist": "MANUEL",
+  "createdAt": "2025-12-14T12:57:13.379696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fodder On My Wings",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/01_Fodder_On_My_Wings_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ON MY WINGS",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/02_ON_MY_WINGS_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On My Wings",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/03_On_My_Wings_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On My Wings",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/04_On_My_Wings_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On My Wings",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/05_On_My_Wings_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ON MY WINGS (EXTENDED MIX～F.O.)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/06_ON_MY_WINGS_(EXTENDED_MIX~F.O.)_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fodder On My Wings - Live At Vine St. Bar & Grill/1987",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/07_Fodder_On_My_Wings_-_Live_At_Vine_St._Bar_&_Grill_1987_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fodder On My Wings (Live At Vine St. Bar & Grill/1987)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/08_Fodder_On_My_Wings_(Live_At_Vine_St._Bar_&_Grill_1987)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ON MY WINGS (EXTENDED MIX〜F.O.)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/09_ON_MY_WINGS_(EXTENDED_MIX〜F.O.)_Manuel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On My Wings",
+      "artist": "Manuel",
+      "has_synced": false,
+      "path": "select/pl_01_On_My_Wings_Manuel.txt"
+    }
+  ]
+}
